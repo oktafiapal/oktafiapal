@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oktafiapal
-- 👀 I’m interested in study
+- 👀 I’m interest improve knowledge
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on improve knowledge
+- 💞️ I’m looking collaborate to learn
 - 📫 How to learn eassy?  
 
 <!---
